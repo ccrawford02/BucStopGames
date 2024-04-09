@@ -1,1 +1,10 @@
+Tetris is a classic tile-matching puzzle game where the player's objective is to manipulate falling tetrominoes—geometric shapes composed of four square blocks each—to create complete horizontal lines without any gaps.
 
+How to Play:
+
+Controls: Use the arrow keys on your keyboard to move the falling tetrominoes left, right, or down. You can also use the up arrow key to rotate them clockwise.
+Objective: Create complete horizontal lines by filling them with blocks. When a line is completed, it disappears, and any blocks above it will fall down.
+Scoring: You earn points for each completed line. The more lines you clear simultaneously, the higher your score.
+Game Over: The game ends when the stack of blocks reaches the top of the playing area.
+Difficulty: As you progress, the tetrominoes fall faster, increasing the game's difficulty.
+Tetris is a challenging yet addictive game that tests your spatial awareness and reflexes. Enjoy playing and see how high you can score!

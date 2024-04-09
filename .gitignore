@@ -1,8 +1,0 @@
-# Ignore temporary files
-*.tmp
-# Ignore build artifacts
-/build/
-# Ignore files containing sensitive information
-secret.txt
-
-# generated from ChatGPT

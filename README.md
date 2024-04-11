@@ -12,6 +12,8 @@ HowToPlay.txt     a file that explains howw to play the game.
 Leaderboard.txt   this file is used as persistant storage (database) for the leaderboard.
 Thumbnail.jpg     a thumbnail image of the game that users will see that represents the game.
 
+![image](https://github.com/ccrawford02/BucStopGames/assets/111920921/4a1610ca-890e-462c-9f47-28af4ccdfc93)
+
 You can develop any type of game you want for BucStop as long as it can run in a browser. By following this standardization it 
 will allow for new games to work properly in BucStop.
 

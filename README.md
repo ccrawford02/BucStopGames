@@ -1,4 +1,4 @@
-BucStop Games is a repository of games created by ETSU students who are studying Software Engineering.
+BucStopGames is a repository of games created by ETSU students who are studying Software Engineering.
 
 If you are developing games for BucStop they should follow a naming convention. (This will be needed for the API in SE2)
 

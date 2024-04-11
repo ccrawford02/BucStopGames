@@ -15,6 +15,7 @@ Thumbnail.jpg     a thumbnail image of the game that users will see that represe
 You can develop any type of game you want for BucStop as long as it can run in a browser. By following this standardization it 
 will allow for new games to work properly in BucStop.
 
+![image](https://github.com/ccrawford02/BucStopGames/assets/111920921/7cfcfe95-d65e-44ea-8f2e-16582f1d195a)
 
 
 

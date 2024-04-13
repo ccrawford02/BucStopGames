@@ -3,7 +3,7 @@ BucStopGames is a repository of games created by ETSU students who are studying 
 If you are developing games for BucStop they should follow a naming convention. (This will be needed for the API in SE2)
 
 A game consists of The following files: 
-A folder that is the next unique number available in the repository. (Gameds are referrenced by this ID number) Inside that numbered file you will need the following:
+A folder that is the next unique number available in the repository. (Games are referrenced by this ID number) Inside that numbered file you will need the following:
 
 ![image](https://github.com/ccrawford02/BucStopGames/assets/111920921/4a1610ca-890e-462c-9f47-28af4ccdfc93)
 

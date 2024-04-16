@@ -13,3 +13,4 @@ will allow for new games to work properly in BucStop. Here is an example of game
 ![image](https://github.com/ccrawford02/BucStopGames/assets/111920921/7cfcfe95-d65e-44ea-8f2e-16582f1d195a)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ej8SatOj3V4/0.jpg)](https://www.youtube.com/watch?v=ej8SatOj3V4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ej8SatOj3V4/0.jpg)](https://www.youtube.com/watch?v=v74X5dtDLvg).

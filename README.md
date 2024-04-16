@@ -12,5 +12,4 @@ will allow for new games to work properly in BucStop. Here is an example of game
 
 ![image](https://github.com/ccrawford02/BucStopGames/assets/111920921/7cfcfe95-d65e-44ea-8f2e-16582f1d195a)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ej8SatOj3V4?si=vkvO5qvekhSHlq4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ej8SatOj3V4/0.jpg)](https://www.youtube.com/watch?v=ej8SatOj3V4)

@@ -1,15 +1,19 @@
 BucStopGames is a repository of games created by ETSU students who are studying Software Engineering.
 
-If you are developing games for BucStop they should follow a naming convention. 
+If you are developing games for BucStop they should follow a naming convention which is 
+illustrated below in the list of example files. Strict adherence is necessary so that 
+BucStop can find the necessary content for the website. Otherwise your game will not
+be displayed or may not be playable.
 
 (This will be needed for the API in SE2)  
 
 A game consists of The following files:
 
-A folder that is the next unique number available in the repository. 
+You will need to create a folder using the next unique number based on the existing folders. 
+Each new folder should advance the number but needs to be unique across all folders.
+(Games are referrenced by this ID number) 
 
-(Games are referrenced by this ID number) Inside that numbered file 
-you will need the following:
+Inside that numbered folder you will need the following:
 
 ![image](https://github.com/ccrawford02/BucStopGames/assets/111920921/4a1610ca-890e-462c-9f47-28af4ccdfc93)
 
@@ -20,7 +24,7 @@ will allow for new games to work properly in BucStop. Here is an example of game
 
 Here are some game tutorials that you may find useful. 
 
-You can use any language that can play in the browser to create new games for BucStop.
+The current BucStop site only supports JavaScript based games.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ej8SatOj3V4/0.jpg)](https://www.youtube.com/watch?v=ej8SatOj3V4)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v74X5dtDLvg/0.jpg)](https://www.youtube.com/watch?v=v74X5dtDLvg).

@@ -11,6 +11,6 @@ You can develop any type of game you want for BucStop as long as it can run in a
 will allow for new games to work properly in BucStop. Here is an example of game 1 in the repository for reference.
 
 ![image](https://github.com/ccrawford02/BucStopGames/assets/111920921/7cfcfe95-d65e-44ea-8f2e-16582f1d195a)
-
+Here are some game tutorials that you may find useful. You can use any language that can play in the browser to create new games for BucStop.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ej8SatOj3V4/0.jpg)](https://www.youtube.com/watch?v=ej8SatOj3V4)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v74X5dtDLvg/0.jpg)](https://www.youtube.com/watch?v=v74X5dtDLvg).
